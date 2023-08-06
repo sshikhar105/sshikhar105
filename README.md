@@ -2,7 +2,8 @@
 
 🚀 **Data Scientist | Software Engineer | NLP Enthusiast**
 
-![Banner Image](URL_TO_A_BANNER_IMAGE)  <!-- Replace with a suitable banner image -->
+![Banner Image](![IMG_3129](https://github.com/sshikhar105/sshikhar105/assets/53624105/f1b78c25-f244-433c-938c-bede31e91685)
+)  <!-- Replace with a suitable banner image -->
 
 ---
 
