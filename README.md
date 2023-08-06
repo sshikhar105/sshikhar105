@@ -2,8 +2,11 @@
 
 🚀 **Data Scientist | Software Engineer | NLP Enthusiast**
 
-![Banner Image](![IMG_3129](https://github.com/sshikhar105/sshikhar105/assets/53624105/f1b78c25-f244-433c-938c-bede31e91685)
-)  <!-- Replace with a suitable banner image -->
+![Banner Image](https://github.com/sshikhar105/sshikhar105/assets/53624105/07be7978-014d-4930-8cfb-40e943d6b12d)
+
+
+
+
 
 ---
 
@@ -42,12 +45,12 @@ Anything related to **Data Science**, **NLP**, **Machine Learning**, **Data Anal
 
 ## 📫 Connect with me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 shikhar.ms105@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/shikhar105)
+- [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:shikhar.ms105@gmail.com)
 
 ## 🌐 Portfolio
 
-Check out my [projects](LINK_TO_PROJECTS) and [research papers](LINK_TO_RESEARCH_PAPERS) in the repositories below.
+Check out my projects  in the repositories below.
 
 ## 🎯 Goals
 
