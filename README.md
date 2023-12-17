@@ -31,8 +31,8 @@ I'm currently diving deep into **Adversarial Attacks on NLP models**, targeting 
 
 - **Languages:** Python, R, SQL
 - **Data Analysis & Visualization:** Power BI, Excel, Tableau
-- **Machine Learning & AI Frameworks:** Scikit-Learn, Pytorch, TensorFlow
-- **Web Development Framework:** Django
+- **Machine Learning & AI Frameworks:** Scikit-Learn, Pytorch, TensorFlow, LangChain, Huggingface.
+- **Web Development Framework:** Django, FastAPI
 - **Office Suite:** MS Office
 
 ## 👯 Collaboration
